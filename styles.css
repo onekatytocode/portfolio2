@@ -1,0 +1,25 @@
+body {
+	box-sizing: border-box;
+	margin: 0;
+}
+
+.navbar {
+	z-index: 1;
+}
+
+.image {
+	/*background: url('yellowbg.jpg');*/
+	background: cover;
+	background: fixed;
+	width: 100%;
+	margin: auto;
+}
+
+h1 {
+	font-size: 70px;
+	z-index: 1;
+	position: absolute;
+	top: 40px;
+	color: white;
+	padding: 5px;
+}
